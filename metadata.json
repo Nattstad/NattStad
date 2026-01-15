@@ -1,0 +1,9 @@
+{
+  "name": "Nattstad - Staden som aldrig sover",
+  "description": "A high-end social messaging app with real-time voice, chat, discovery, and advanced admin features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
